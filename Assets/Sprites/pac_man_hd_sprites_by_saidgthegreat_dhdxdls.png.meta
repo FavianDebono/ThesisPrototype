@@ -1,0 +1,4947 @@
+fileFormatVersion: 2
+guid: d0d5b0a9496e4e74e8706f91d98ade99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd44c723e5ccc44a94816d3853379e2
+      internalID: 1231091219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb1a3a210e8cba4fa688b37fa34a76e
+      internalID: -584414246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ce5d761c607044bcc6d77fdba6d8c
+      internalID: 1711069100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfca5dc3fd06b946b7a386c89b8cd12
+      internalID: -753946257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546c3e52589bcec4db7b4e184c8f5d6a
+      internalID: 780301361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e935a62f175574a9cba8f87c9444a7
+      internalID: 2070379072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8913b421f7c01c340ab01fb6d3c54612
+      internalID: 1066114626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234922cbe0e01f5429d25122b1270bdc
+      internalID: -259705099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f45b3e2c7929aa428a50a4833c406da
+      internalID: 1402779125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26232d869f3a3b84688b39aff94a1ed3
+      internalID: 1311475122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a46cb50c3264c841b928db0ffdce7c7
+      internalID: 1492191982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9a3716dd6e0f4eb35ecb46ae9607c
+      internalID: -670065454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfdd4584010d3749984fbe19fcc439f
+      internalID: -1985571559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b537775e112557498bad6dff5395e3c
+      internalID: -2139698797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf1ad9cc3ba084b8a9241677afa38c
+      internalID: -788887870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ad2bef27b8474f8cc2c886d406b4c
+      internalID: -1824351209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49a06c70009204eaa2f48517246cd1
+      internalID: 798514366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2080b00f2ec65f54bbd03d3aa9cccd59
+      internalID: 1369331933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e52ae228c8ca94f969a605de121a06
+      internalID: 516896811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5dc1053c295d74ba3fd5cd9f066fe9
+      internalID: 1673621909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e903fb6bf0f24469262781d8033ea3
+      internalID: -711184400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace60bae87813044b996850524d98d70
+      internalID: 1587377815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741fb464c65c034f8e24a8d6c861a1b
+      internalID: 476099674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415bbef4071659d4999f224ba9d9ee13
+      internalID: 1508240195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add202f669d76e446ab39a7f1669bb1e
+      internalID: -897646965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e961629371b6f4f9ff662bf5388fcd
+      internalID: 1932689130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850a12136fe4ca64baa2b61cdd9ad298
+      internalID: 1230748324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d319b211f37b8746aa63b292918b25a
+      internalID: 879710099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622af19715117447a5c88f04c577b7a
+      internalID: -1353360264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad55257b98ea2e44bb86b4aaebef61c
+      internalID: 156421736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5ab06d8243e44db5b93796c997c66
+      internalID: 16860014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0590b0d40f39ef43b55aed93119aaf0
+      internalID: -2116819041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec2550f25931a4d8633c673146c5df
+      internalID: 2038612604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfb1c530898904b969e359903cc12c
+      internalID: 593890685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a11f2f29f1164fb4303155315c387
+      internalID: -655412306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63f493b74d3274bb9d76f1250199ee
+      internalID: -772460056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cce61df1f3edd4fabaa336815cc353
+      internalID: -100786175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e2c1daf6ad794eb8bea339a1dca58
+      internalID: 1977556059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21266197c8c6af449a463397621b443
+      internalID: -207740597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e916a4b6d42cc943aa262def0aa18ac
+      internalID: 1024577449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08477e8e730d1243a66319b49dd0541
+      internalID: -1777429477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c8143a5220f1c4cabc2d1fd8745874
+      internalID: -1699060393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99454bbc30758d44adc0400fb33ef37
+      internalID: -52205029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba55efb7fa5832442a4934d7a633924c
+      internalID: -705302832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6168132ae218449b304ebe0086d40
+      internalID: -618915614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5637ff252def04e98c5bd0508a722c
+      internalID: -1989038232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e49b1835445a4789b88bb1747f3d9
+      internalID: -1075265073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c5bd941cc73d44abfea7035080689
+      internalID: -1849807823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665dd02b501f5e940be8ba6af4c4c86b
+      internalID: -1230245284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448cb464505de4b44aa638806264cc26
+      internalID: -316119965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b50a2fb762fc4c821edd8871ea4e3
+      internalID: 1927315234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbac1f25b6bee4c84b5ed1b96e1a11
+      internalID: 2111448977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3cf5a3017852641ad0df3c18db1bb1
+      internalID: -1624840657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25de06130893ec46b5e9a7ad7f8b436
+      internalID: 792548607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfefcdea24d5a940ba47176dd4ecf20
+      internalID: 1624104747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1ec40412123d42a32574f05c4f514
+      internalID: 274212873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f0cb66b3c63b844bfbb3e4d78d7db4
+      internalID: 2114146066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badec2bd40cb2194595f8ec4711edcdc
+      internalID: -2102950939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b29327c0ec3fe49b5855458686d1df
+      internalID: -180077477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958dea092b28bd549b81deb04a296a82
+      internalID: -1222523538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72da715890223144aee70a91751a754
+      internalID: -188823765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a4ce088816fff4e8cb4b619cb21ad6
+      internalID: 1308831384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2400dc877823e4aa5ce8ef9317538c
+      internalID: -67325272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a1595216d52a4fa6567c6e06bfec6
+      internalID: 1022724105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e316cd5ff1b141bcfd07fe1338e6a
+      internalID: -545063105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b41d6247f8d94ea52507c25bec654
+      internalID: -10319079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035b9f4d3ec2d041ab0d303f79856fa
+      internalID: 1305513217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3920cc3081f4dc44b8609598c6a726f3
+      internalID: 432605796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad1a2626f1dec41a2961de593dfd62
+      internalID: -558953230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75731d450e304ca48a2500cca1310e96
+      internalID: 1483818209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b1eeabad25df41ba7fca7e58d37ee
+      internalID: -708261688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32aeb5b77cd5584581250684b62af0d
+      internalID: -29689536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71162b33e6fd9c1448743611da985b6a
+      internalID: -231057556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8711df5bedba40945902cda54c2c3f93
+      internalID: 2024554907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1c32eb3bd12c45b25f5d9b3630c87
+      internalID: -1451559431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d60fa2149e950a4798b98726eae1b3e
+      internalID: -2134757518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f5b3676f883543bcf1da7c9a7abcb
+      internalID: 705440794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c3d0e84cf97a44b8a11fb3c980f9f
+      internalID: -1508255101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a83687f124415468f0e5d603b8beea
+      internalID: -1582925357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28721f13b388d4543a6565fbfe71a401
+      internalID: -327111847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3ce5b47f03294e8f7eed12c0b404e
+      internalID: 1726856521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20241a5e89f2a45479b81428b3a636d8
+      internalID: -1538054638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a23eabd165af340b481a5bee39a9ec
+      internalID: -1859708410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b62921ec82fc4e940b184b531d103
+      internalID: 1649682161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f156c6b2d772468407b2fe0107d48
+      internalID: -1589947143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d049f98eb78764b9b51a7289c18781
+      internalID: 1341870499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a28af1daf8d84e804538983e4fff3
+      internalID: 840394712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc95b3784194247abf049084617c9d
+      internalID: 255413253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4393380844536c84fb0aa0faddd8dc4e
+      internalID: 870552846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99269da1dd45022409f8213366633994
+      internalID: 1371427182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb146ec3ffa2f43b8c16311eec7d95
+      internalID: -38236700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc2138463e5b74cad6e0314b2668fd
+      internalID: 118133785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a744c16a0a9e840b13ee54f1b7e3c1
+      internalID: 1834541436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed0d5094c0d9ed49973b6e31c4ef7ad
+      internalID: -500507212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadedb5a91e98d49a5b004f88d9d947
+      internalID: 2061512231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce5bd5266ae724295f7b5f1c415368
+      internalID: 424760511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c62723dd6fc89f4c86af13ace252348
+      internalID: -1061279910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae899830e0975b4b96e99b7aa35f55a
+      internalID: 1556092434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff220866b0c2274681f8e1ff130a675
+      internalID: 10928840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583a34f1b691014d995cd014900d509
+      internalID: 2038250140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08599818e4cb04d83b4912cf215633
+      internalID: -1922010086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b45bf722bbb844d8b6fac17cb06f61
+      internalID: -1239275716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297625a2e59f5bb4faa6301d27a2a817
+      internalID: -1456149123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e7af6cbbbfed4eac9706486d69455
+      internalID: 766026936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f95e8f08f2ebc4db932c2366b45191
+      internalID: 1500922426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f042f99044d0be4d9f39d69bd62fb57
+      internalID: -1521391342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f3b5f9327faa47820a5d8a7a0c6a7
+      internalID: 1237329667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5deae47774d8449bcebbacaeeeb993
+      internalID: 672675420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c77682b08534b449b1df75c3b07288
+      internalID: 460132881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366026901e03b0047a29cf7f65065d0e
+      internalID: -530164957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43702545c6fdb6544b4e2cab845b9314
+      internalID: 735240868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c399bf136e3a7947b0814937c9887ed
+      internalID: 272918113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf3709c17b1e074aa00e08733093828
+      internalID: 688862846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d551016183dd48ab2c69250b71ac2
+      internalID: 118147971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b565741ec9233488288be8a518693d
+      internalID: 1577841741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16836308cf38c26488951a433994290d
+      internalID: 1874639426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e39344dc823548ae421ef87871bb9
+      internalID: -1592420115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce10d8c38a9354f85902b19c45fab3
+      internalID: -1410796115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313aaad88b949d44a40179d3d424362
+      internalID: -328053324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6df13d4c615c54295c5b4b6933fa14
+      internalID: 418300081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da28d1e07d2cc248a1fe6a23ffa89b0
+      internalID: -1593504549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d0ae07a46f1e4bbf841c4b8c01dc6
+      internalID: -1353363331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab57c7bd380d2e4f9add16622b3347b
+      internalID: -907979990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf636ad4b286a4f80d7b755ec03769
+      internalID: -109734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d883f8ca3583541b2efeea9cbf2f29
+      internalID: -1146061151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb254efbc4b2c46827190263ce90d7
+      internalID: -754602163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37945521ce08e00458af8d8f53f8fb5d
+      internalID: 1999643655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f0257836c894f4aba1f67f2fc560e1
+      internalID: 861932494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04604f3df281294ebbab34f6f66d5c8
+      internalID: -2094011196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706fafd01a463e4092f74ab6c7c6ef8
+      internalID: 299260397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94030c1938905a4daf7abb9e8c5642f
+      internalID: 1379004877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d5d383d445a1409c3679a2a4666bf
+      internalID: -1899569509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00940829dbaefe9428643ea47ea41be3
+      internalID: 897572024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d73f034578ce4dbd159057302ca8e
+      internalID: -386376590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e6584d158f994697049d12538ddec
+      internalID: -1853713045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f19f3bf2b7a441bceb9deec2684bb
+      internalID: -1340647694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23849f3ea41694b9f5f4c4e41cb8a4
+      internalID: 58297127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af47f5fffd12443a83400944966f30
+      internalID: 1850758070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd02d9520a8be749aac942acde64753
+      internalID: -1086123134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb731bb1d7ae297409dee77b181ac78e
+      internalID: -969946174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc92d6547c81784d9e704ef2176200d
+      internalID: 508084531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73aa75c6afea8241937a01b44d3cce7
+      internalID: 1668071955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617c13622e33b14a83de8d5e7342ef2
+      internalID: -1550665613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9caa25d8d69d5e4db5302cacfb4741a
+      internalID: 537426115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9e2511188fb749a9af15fba08ab08
+      internalID: -21155510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643767c5c65ee6d4c8eeda4848e09731
+      internalID: 2024192506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1069d21c02e34ebe4fa33727d561f
+      internalID: 940047436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96950d456ceac8a48a8eb6474b3a3856
+      internalID: 1923328103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f465a4bbade1244dba9d861260b36dc
+      internalID: -471181541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d3eadb58c86b40ad17f2453455650
+      internalID: -921641584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54682767dfab0144b9b0408fbd929b1
+      internalID: -1708176720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00961b863a7a27147be93d4cc764cc77
+      internalID: 563241932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8fb2e1d0074645b006ff143cb49f6
+      internalID: 1022604375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e340e1bd3d8ef64a80ab3a68c7c52b0
+      internalID: 569292379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d577ef08dff6904489a78bce16300196
+      internalID: -318603491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd9a56506253b4b988f391953658b7
+      internalID: -1138483190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5557420ca57c488aa8a33d29e21d9
+      internalID: -1176858474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566e23e66c024346a55a6b6024e558b
+      internalID: -64158226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e6936de98b89b4bb0da9d5475191d7
+      internalID: -1910903710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6606a9dc0f0554eb890a974253812c
+      internalID: 285573105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f15d6ff04ad2408cdcd9a9c9c71d0
+      internalID: 1083303832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eaef35b9dbc2740a6ddc8e79789b3b
+      internalID: 1097543263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348615ec4b673144989b049d6eb5cb88
+      internalID: 705279936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f08c60ddc17b04c86ecdf6be2a8d60
+      internalID: 1084178255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fa0d3fd5b3ce4394fb37c3952455b
+      internalID: -1893332462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898f5871b7c01ae4597ee39e67e340b4
+      internalID: -1287214276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31ba9f4f6da6d448f536823cb43b01
+      internalID: -1636002957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f987594701bcd6448b8846dd46810ad
+      internalID: -58627900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58244e22b95204fa1eaca31d662c2d
+      internalID: 121844503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8b81696db68d46aa17d58294f3632
+      internalID: -1706963554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38357d666e53e6d48a25bc5724f08751
+      internalID: 245413987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b716c981460894bb0c0e4966095c17
+      internalID: 572738225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea023bd764ac744418f929aacf1607af
+      internalID: -686988063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab95deada2ef94d8d73783e3416d96
+      internalID: 1597132646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36facb94ddd7db640adeb4a0c281ceac
+      internalID: 937600678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ead5b47ce231b4fbd1cd8e5f479afa
+      internalID: 1350974447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda41d471d5e114582fe10abe8ca886
+      internalID: -389179444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c7bea22ef2074c8d7149064329347
+      internalID: -1603205282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e96f4db2c9bebf43b53ff5844ea8cab
+      internalID: 120055501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a727f2edc8e782141863bc2d9fe83e97
+      internalID: 475372418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870727ba2df5324ea250182d9c7f6f3
+      internalID: -182541457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1e319f6830a1408664ebc69a2e8d2
+      internalID: 593951361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a0655778144a42ae07103dd9aabec
+      internalID: -1170496257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa1a5fa2d763047ad844106ef1028b
+      internalID: -1989487971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842bf8ec7fe9984fa85bcf98711525b
+      internalID: 160445133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576a3eb9cb7352c429a843accf75fd68
+      internalID: -1034102205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edf6766bd8dd7c40babe3b6376866c5
+      internalID: 1170907454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732597cb24ab3ae4ab8cfbf95ca5d022
+      internalID: -1601613242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52352e38b43aef845b15caa82609aec7
+      internalID: -1143705783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdf71a81dbd1d4cacd2022b562598c
+      internalID: 1250788471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d85eca5b604fe24587b5f42987be48f
+      internalID: -725460938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e194fb35bad8344a5e9f7d87ecb248
+      internalID: -121779976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6135f4ce9f1ea47814ab6f3d57dcb1
+      internalID: -608086517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d3662c199c4840880d714f8c1d1d2
+      internalID: 2058900382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb6995a18da334fa956ba1a8659f46
+      internalID: -641380671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d83f18ceb249c479fcf334eaac7e8b
+      internalID: -208131882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a89413c5f2234eab909211b8df183
+      internalID: -1327185433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75388c3b7d8401548886a33f8392c136
+      internalID: -1926315124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44dbaf985ec234888c45a25f4efca7
+      internalID: 1181172765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293b2e7465eb4547a50c96125b7f222
+      internalID: 883389119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_200
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b3f6b6ee10124a84b762e42449a1d
+      internalID: -1442353260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e2de428ea76c4187a3c14eafa09ef
+      internalID: -862896170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c92804341f6b94e97b5201643640b7
+      internalID: -734294293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7199235721c51941b3731e2b82504b9
+      internalID: 943176544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed859e395f8074a93acff265c2cd18
+      internalID: -594538473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_205
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd0e388b02cee4096d8417554f5b0e
+      internalID: 572606015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_206
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39de48fd6a69146bbe42ce50e42e28
+      internalID: -2120784424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_207
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8030a4bb6eba365469ed2ba845035e04
+      internalID: 789449332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_208
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa842d745ae444469774427e9299344
+      internalID: -1971192091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pac_man_hd_sprites_by_saidgthegreat_dhdxdls_209
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806504f2b800874a96a709ea5c9a2fc
+      internalID: 1573442557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a2a929eb91318084a9e9ffe14d80e3fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_0: 1231091219
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_1: -584414246
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_10: 1492191982
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_100: -1922010086
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_101: -1239275716
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_102: -1456149123
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_103: 766026936
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_104: 1500922426
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_105: -1521391342
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_106: 1237329667
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_107: 672675420
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_108: 460132881
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_109: -530164957
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_11: -670065454
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_110: 735240868
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_111: 272918113
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_112: 688862846
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_113: 118147971
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_114: 1577841741
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_115: 1874639426
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_116: -1592420115
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_117: -1410796115
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_118: -328053324
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_119: 418300081
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_12: -1985571559
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_120: -1593504549
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_121: -1353363331
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_122: -907979990
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_123: -109734423
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_124: -1146061151
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_125: -754602163
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_126: 1999643655
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_127: 861932494
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_128: -2094011196
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_129: 299260397
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_13: -2139698797
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_130: 1379004877
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_131: -1899569509
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_132: 897572024
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_133: -386376590
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_134: -1853713045
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_135: -1340647694
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_136: 58297127
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_137: 1850758070
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_138: -1086123134
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_139: -969946174
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_14: -788887870
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_140: 508084531
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_141: 1668071955
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_142: -1550665613
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_143: 537426115
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_144: -21155510
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_145: 2024192506
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_146: 940047436
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_147: 1923328103
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_148: -471181541
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_149: -921641584
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_15: -1824351209
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_150: -1708176720
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_151: 563241932
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_152: 1022604375
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_153: 569292379
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_154: -318603491
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_155: -1138483190
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_156: -1176858474
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_157: -64158226
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_158: -1910903710
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_159: 285573105
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_16: 798514366
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_160: 1083303832
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_161: 1097543263
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_162: 705279936
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_163: 1084178255
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_164: -1893332462
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_165: -1287214276
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_166: -1636002957
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_167: -58627900
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_168: 121844503
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_169: -1706963554
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_17: 1369331933
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_170: 245413987
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_171: 572738225
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_172: -686988063
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_173: 1597132646
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_174: 937600678
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_175: 1350974447
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_176: -389179444
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_177: -1603205282
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_178: 120055501
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_179: 475372418
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_18: 516896811
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_180: -182541457
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_181: 593951361
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_182: -1170496257
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_183: -1989487971
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_184: 160445133
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_185: -1034102205
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_186: 1170907454
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_187: -1601613242
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_188: -1143705783
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_189: 1250788471
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_19: 1673621909
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_190: -725460938
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_191: -121779976
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_192: -608086517
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_193: 2058900382
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_194: -641380671
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_195: -208131882
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_196: -1327185433
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_197: -1926315124
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_198: 1181172765
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_199: 883389119
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_2: 1711069100
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_20: -711184400
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_200: -1442353260
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_201: -862896170
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_202: -734294293
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_203: 943176544
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_204: -594538473
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_205: 572606015
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_206: -2120784424
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_207: 789449332
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_208: -1971192091
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_209: 1573442557
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_21: 1587377815
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_22: 476099674
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_23: 1508240195
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_24: -897646965
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_25: 1932689130
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_26: 1230748324
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_27: 879710099
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_28: -1353360264
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_29: 156421736
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_3: -753946257
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_30: 16860014
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_31: -2116819041
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_32: 2038612604
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_33: 593890685
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_34: -655412306
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_35: -772460056
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_36: -100786175
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_37: 1977556059
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_38: -207740597
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_39: 1024577449
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_4: 780301361
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_40: -1777429477
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_41: -1699060393
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_42: -52205029
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_43: -705302832
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_44: -618915614
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_45: -1989038232
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_46: -1075265073
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_47: -1849807823
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_48: -1230245284
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_49: -316119965
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_5: 2070379072
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_50: 1927315234
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_51: 2111448977
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_52: -1624840657
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_53: 792548607
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_54: 1624104747
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_55: 274212873
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_56: 2114146066
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_57: -2102950939
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_58: -180077477
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_59: -1222523538
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_6: 1066114626
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_60: -188823765
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_61: 1308831384
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_62: -67325272
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_63: 1022724105
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_64: -545063105
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_65: -10319079
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_66: 1305513217
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_67: 432605796
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_68: -558953230
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_69: 1483818209
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_7: -259705099
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_70: -708261688
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_71: -29689536
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_72: -231057556
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_73: 2024554907
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_74: -1451559431
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_75: -2134757518
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_76: 705440794
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_77: -1508255101
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_78: -1582925357
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_79: -327111847
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_8: 1402779125
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_80: 1726856521
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_81: -1538054638
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_82: -1859708410
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_83: 1649682161
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_84: -1589947143
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_85: 1341870499
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_86: 840394712
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_87: 255413253
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_88: 870552846
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_89: 1371427182
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_9: 1311475122
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_90: -38236700
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_91: 118133785
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_92: 1834541436
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_93: -500507212
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_94: 2061512231
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_95: 424760511
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_96: -1061279910
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_97: 1556092434
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_98: 10928840
+      pac_man_hd_sprites_by_saidgthegreat_dhdxdls_99: 2038250140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
