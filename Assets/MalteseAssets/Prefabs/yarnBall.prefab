@@ -30,7 +30,7 @@ RectTransform:
   m_GameObject: {fileID: 348050285091605420}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.0034}
-  m_LocalScale: {x: 0.0010168, y: 0.00045759996, z: 0.00045759996}
+  m_LocalScale: {x: 0.0005, y: 0.00022501967, z: 0.00022501967}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 6481415090756623730}
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Yarnball
+  m_text: Kobba tas-Suf
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
   m_sharedMaterial: {fileID: -7130201282140251978, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
@@ -279,8 +279,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.6
-  m_fontSizeBase: 26.6
+  m_fontSize: 25.68
+  m_fontSizeBase: 25.68
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -439,27 +439,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalScale.x
-      value: 12.5
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalScale.y
-      value: 12.5
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalScale.z
-      value: 12.5
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -20.24129
+      value: -2.019
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.097
+      value: 0.081
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -20.792158
+      value: 9.717
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f7f4f29d2103e9d438043c1211ae5868, type: 3}
       propertyPath: m_LocalRotation.w
@@ -572,7 +572,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -786,6 +786,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: Kobba tas-Suf
+  audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.9
   itemCanvas: {fileID: 348050285091605420}

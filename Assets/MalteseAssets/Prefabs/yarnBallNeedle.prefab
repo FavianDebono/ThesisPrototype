@@ -134,7 +134,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.000051251634}
   m_LocalScale: {x: 0.49, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 7104992506050335646}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Needle
+  m_text: Labra
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
   m_sharedMaterial: {fileID: -7130201282140251978, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
@@ -198,8 +198,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.6
-  m_fontSizeBase: 26.6
+  m_fontSize: 33.67
+  m_fontSizeBase: 33.67
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -270,17 +270,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5381895627586208452}
-  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 0, y: 0, z: 0.026}
-  m_LocalScale: {x: 0.013815217, y: 0.0004954593, z: 0.0062173917}
-  m_ConstrainProportionsScale: 1
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0.01}
+  m_LocalScale: {x: 0.001, y: 0.004530608, z: 0.004050354}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7104992506050335646}
   m_Father: {fileID: 2477643056212703460}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.03, y: 0.01}
+  m_AnchoredPosition: {x: -0.002, y: 0.49}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &270274898273996808
@@ -439,35 +439,35 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.92
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.92
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalScale.z
-      value: 11.544845
+      value: 5.0194974
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -19.126034
+      value: -2.018
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.315
+      value: 0.41
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -20.510077
+      value: 9.226
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.7071067
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.7071068
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalRotation.y
@@ -475,7 +475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 89083771e3f0041429d8a57b63fd172b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -556,7 +556,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -791,6 +791,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: Labra
+  audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.7
   itemCanvas: {fileID: 5381895627586208452}

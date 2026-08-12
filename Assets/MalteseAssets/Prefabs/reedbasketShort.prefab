@@ -215,10 +215,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Reed basket
+  m_text: Qoffa
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
-  m_sharedMaterial: {fileID: -7130201282140251978, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -451,31 +451,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -21.45838
+      value: 4.459
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.502
+      value: 0.517
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -25.777729
+      value: -11.627
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.05354556
+      value: -0.91122353
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.0000000011702755
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.99856544
+      value: -0.41191226
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.000000021824338
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -483,7 +483,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -311.35
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1dd206966e21de74bb23e4e70e8ac52f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -551,7 +551,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -786,6 +786,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: Qoffa
+  audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.35
   itemCanvas: {fileID: 4601054325056707570}

@@ -360,8 +360,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Spiritiera
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
-  m_sharedMaterial: {fileID: -7130201282140251978, guid: 5af2f749744d7974e8d97bb5cd028b35, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -439,27 +439,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalScale.x
-      value: 17
+      value: 9.92
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalScale.y
-      value: 17
+      value: 9.92
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalScale.z
-      value: 17
+      value: 9.92
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -21.09301
+      value: 6.7402725
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.442
+      value: 1.131
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -23.844877
+      value: 9.587
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 986633d814882004382797107f63225c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -572,7 +572,7 @@ Rigidbody:
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
   m_UseGravity: 1
-  m_IsKinematic: 0
+  m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -786,6 +786,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  name: Spiritiera
+  audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.5
   itemCanvas: {fileID: 1214396091813350514}
