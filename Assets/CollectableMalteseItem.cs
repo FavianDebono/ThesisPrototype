@@ -38,6 +38,8 @@ public class CollectableMalteseItem : MonoBehaviour
     }
     */
 
+    [SerializeField] string name;
+    [SerializeField] AudioClip audioName;
     [SerializeField] Material blueMaterial;
     [SerializeField] float hologramScale = 0.25f;
     [SerializeField] GameObject itemCanvas;
