@@ -455,7 +455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c474bde21a3343d4ba4ef47ee230f755, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.27
+      value: 1.324
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c474bde21a3343d4ba4ef47ee230f755, type: 3}
       propertyPath: m_LocalPosition.z
@@ -770,7 +770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: Bir
+  ObjectName: Bir
   audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.15

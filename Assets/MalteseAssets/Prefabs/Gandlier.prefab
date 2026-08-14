@@ -786,8 +786,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: Gandlier
+  ObjectName: Gandlier
   audioName: {fileID: 0}
+  hologramDroppedSound: {fileID: 8300000, guid: a50e06d7a7ba3fa47898f209cba4aca1, type: 3}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.5
   itemCanvas: {fileID: 5502729903474336078}

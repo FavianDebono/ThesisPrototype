@@ -38,8 +38,9 @@ public class CollectableMalteseItem : MonoBehaviour
     }
     */
 
-    [SerializeField] string name;
+    [SerializeField] string ObjectName;
     [SerializeField] AudioClip audioName;
+    [SerializeField] AudioClip hologramDroppedSound;
     [SerializeField] Material blueMaterial;
     [SerializeField] float hologramScale = 0.25f;
     [SerializeField] GameObject itemCanvas;
@@ -69,9 +70,11 @@ public class CollectableMalteseItem : MonoBehaviour
 
     void OnGrabbed(SelectEnterEventArgs args)
     {
-        if (collected) return;
+        if (collected)
+            return;
 
-        if (hologramCreated) return;
+        if (hologramCreated)
+            return;
 
         hologramCreated = true;
 
@@ -100,6 +103,7 @@ public class CollectableMalteseItem : MonoBehaviour
         HologramAsset hologramItem = hologram.AddComponent<HologramAsset>();
 
         hologramItem.SetOriginalItem(this);
+        hologramItem.SetDroppedSound(hologramDroppedSound);
 
         XRGrabInteractable hologramGrab = hologram.GetComponent<XRGrabInteractable>();
 
@@ -213,7 +217,6 @@ public class CollectableMalteseItem : MonoBehaviour
         }
     }
 
-    // Called when hologram is dropped.
     public void HologramDestroyed()
     {
         if (collected)
@@ -221,18 +224,15 @@ public class CollectableMalteseItem : MonoBehaviour
 
         hologramCreated = false;
 
-        // Player can get another hologram.
         if (grabInteractable != null)
             grabInteractable.enabled = true;
     }
 
-    // Called when hologram reaches collector bag.
     public void MarkAsCollected()
     {
         collected = true;
         hologramCreated = false;
 
-        // Permanently disable grabbing.
         if (grabInteractable != null)
             grabInteractable.enabled = false;
     }

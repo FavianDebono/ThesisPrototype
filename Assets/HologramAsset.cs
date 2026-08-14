@@ -5,19 +5,24 @@ using UnityEngine.XR.Interaction.Toolkit.Interactables;
 
 public class HologramAsset : MonoBehaviour
 {
-    private CollectableMalteseItem originalItem;
-    private XRGrabInteractable grabInteractable;
-    private Rigidbody rb;
+    CollectableMalteseItem originalItem;
+    XRGrabInteractable grabInteractable;
+    Rigidbody rb;
 
-    private bool beingDestroyed = false;
-    private bool collected = false;
+
+    bool beingDestroyed = false;
+    bool collected = false;
+
+
+    [Header("Audio")]
+    [SerializeField] AudioClip droppedSound;
 
     [Header("Disintegration")]
-    [SerializeField] private float disintegrateDuration = .4f;
+    [SerializeField] float disintegrateDuration = .4f;
 
-    private Renderer[] hologramRenderers;
+    Renderer[] hologramRenderers;
 
-    private void Start()
+    void Start()
     {
         grabInteractable = GetComponent<XRGrabInteractable>();
         rb = GetComponent<Rigidbody>();
@@ -32,7 +37,7 @@ public class HologramAsset : MonoBehaviour
         }
     }
 
-    private void OnDestroy()
+    void OnDestroy()
     {
         if (grabInteractable != null)
         {
@@ -45,7 +50,12 @@ public class HologramAsset : MonoBehaviour
         originalItem = item;
     }
 
-    private void OnReleased(SelectExitEventArgs args)
+    public void SetDroppedSound(AudioClip sound)
+    {
+        droppedSound = sound;
+    }
+
+    void OnReleased(SelectExitEventArgs args)
     {
         if (collected)
             return;
@@ -53,15 +63,24 @@ public class HologramAsset : MonoBehaviour
         if (beingDestroyed)
             return;
 
+        // Play sound when hologram is dropped.
+        if (droppedSound != null)
+        {
+            AudioSource.PlayClipAtPoint(
+                droppedSound,
+                transform.position
+            );
+        }
+
         StartCoroutine(Disintegrate());
     }
 
-    private IEnumerator Disintegrate()
+    IEnumerator Disintegrate()
     {
         beingDestroyed = true;
 
         // ------------------------------------------------
-        // Stop the hologram from being grabbed again
+        // Stop hologram from being grabbed again
         // ------------------------------------------------
 
         if (grabInteractable != null)
@@ -70,7 +89,7 @@ public class HologramAsset : MonoBehaviour
         }
 
         // ------------------------------------------------
-        // Make the hologram fall
+        // Stop movement
         // ------------------------------------------------
 
         if (rb != null)
@@ -83,10 +102,7 @@ public class HologramAsset : MonoBehaviour
         }
 
         // ------------------------------------------------
-        // Keep colliders as triggers.
-        //
-        // This means the hologram can fall through objects
-        // without physically colliding with them.
+        // Keep colliders as triggers
         // ------------------------------------------------
 
         foreach (Collider col in
@@ -106,9 +122,12 @@ public class HologramAsset : MonoBehaviour
             elapsed += Time.deltaTime;
 
             float fadeAmount =
-                Mathf.Clamp01(elapsed / disintegrateDuration);
+                Mathf.Clamp01(
+                    elapsed / disintegrateDuration
+                );
 
-            float alpha = 1f - fadeAmount;
+            float alpha =
+                1f - fadeAmount;
 
             SetHologramAlpha(alpha);
 
@@ -116,7 +135,7 @@ public class HologramAsset : MonoBehaviour
         }
 
         // ------------------------------------------------
-        // Original can now create another hologram
+        // Allow original to create another hologram
         // ------------------------------------------------
 
         if (originalItem != null)
@@ -127,15 +146,16 @@ public class HologramAsset : MonoBehaviour
         Destroy(gameObject);
     }
 
-    private void SetHologramAlpha(float alpha)
+    void SetHologramAlpha(float alpha)
     {
         foreach (Renderer renderer in hologramRenderers)
         {
-            Material[] materials = renderer.materials;
+            Material[] materials =
+                renderer.materials;
 
             foreach (Material material in materials)
             {
-                // URP shaders usually use _BaseColor.
+                // URP shaders
                 if (material.HasProperty("_BaseColor"))
                 {
                     Color color =
@@ -149,7 +169,7 @@ public class HologramAsset : MonoBehaviour
                     );
                 }
 
-                // Built-in shaders often use _Color.
+                // Built-in shaders
                 else if (material.HasProperty("_Color"))
                 {
                     Color color =

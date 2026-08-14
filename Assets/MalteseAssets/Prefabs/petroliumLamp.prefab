@@ -791,7 +791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abd2aa0860e9ba145857cbc765989247, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  name: Lampa tal-Pitrolju
+  ObjectName: Spiritiera Tal-Pitrolju
   audioName: {fileID: 0}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.8
