@@ -40,7 +40,7 @@ public class CollectableMalteseItem : MonoBehaviour
 
     [SerializeField] string ObjectName;
     [SerializeField] AudioClip audioName;
-    [SerializeField] AudioClip hologramDroppedSound;
+    [SerializeField] AudioClip hologramDroppedSound; 
     [SerializeField] Material blueMaterial;
     [SerializeField] float hologramScale = 0.25f;
     [SerializeField] GameObject itemCanvas;

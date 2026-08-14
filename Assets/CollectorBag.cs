@@ -21,5 +21,6 @@ public class CollectorBag : MonoBehaviour
         }
 
         hologram.Collect();
+        ExtrinsicGameManager.Instance.ItemCollected();
     }
 }

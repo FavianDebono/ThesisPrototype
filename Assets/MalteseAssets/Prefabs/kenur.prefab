@@ -788,6 +788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectName: Kenur
   audioName: {fileID: 0}
+  hologramDroppedSound: {fileID: 8300000, guid: 8bef4837db5c7164e96410a108637f18, type: 3}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.25
   itemCanvas: {fileID: 5796923686149294627}

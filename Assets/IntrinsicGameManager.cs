@@ -22,6 +22,10 @@ public class IntrinsicGameManager : MonoBehaviour
 
     [SerializeField] float completionPanelDuration = 5f;
 
+    [Header("Audio")]
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip completionSound;
+
     void Awake()
     {
         if (Instance != null && Instance != this)
@@ -74,6 +78,11 @@ public class IntrinsicGameManager : MonoBehaviour
         conditionCompleted = true;
 
         Debug.Log("Intrinsic condition completed!");
+
+        if (audioSource != null && completionSound != null)
+        {
+            audioSource.PlayOneShot(completionSound);
+        }
 
         if (completionPanel != null)
         {

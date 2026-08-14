@@ -455,11 +455,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9133f98e7fc580e4aa90611f07820ab9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.769
+      value: 0.696
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9133f98e7fc580e4aa90611f07820ab9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.129
+      value: -4.145
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9133f98e7fc580e4aa90611f07820ab9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -784,7 +784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectName: Mannarett
   audioName: {fileID: 0}
-  hologramDroppedSound: {fileID: 0}
+  hologramDroppedSound: {fileID: 8300000, guid: 8bef4837db5c7164e96410a108637f18, type: 3}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.3
   itemCanvas: {fileID: 4078047994042859772}
