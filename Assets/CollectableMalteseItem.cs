@@ -230,10 +230,18 @@ public class CollectableMalteseItem : MonoBehaviour
 
     public void MarkAsCollected()
     {
+        if (collected)
+            return;
+
         collected = true;
         hologramCreated = false;
 
         if (grabInteractable != null)
             grabInteractable.enabled = false;
+
+        if (IntrinsicGameManager.Instance != null)
+        {
+            IntrinsicGameManager.Instance.RegisterCollectedItem(this);
+        }
     }
 }
