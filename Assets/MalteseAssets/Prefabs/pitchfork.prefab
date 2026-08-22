@@ -459,7 +459,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2a04913431880484bb69110dda986134, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.339
+      value: -4.353
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2a04913431880484bb69110dda986134, type: 3}
       propertyPath: m_LocalRotation.w
@@ -493,6 +493,18 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2a04913431880484bb69110dda986134, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2a04913431880484bb69110dda986134, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2119785909315377135, guid: f477ff1316e959a41991fb4aa387b5f8, type: 3}
+    - target: {fileID: -5754084199372789682, guid: 2a04913431880484bb69110dda986134, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 8691780276856062721, guid: f477ff1316e959a41991fb4aa387b5f8, type: 3}
     - target: {fileID: 919132149155446097, guid: 2a04913431880484bb69110dda986134, type: 3}
       propertyPath: m_Name
       value: pitchfork
@@ -791,7 +803,7 @@ MonoBehaviour:
   hologramDroppedSound: {fileID: 8300000, guid: 8bef4837db5c7164e96410a108637f18, type: 3}
   blueMaterial: {fileID: 2100000, guid: 48be39d72470930489a6937ddc2ea69a, type: 2}
   hologramScale: 0.3
-  itemCanvas: {fileID: 0}
+  itemCanvas: {fileID: 7348520891513905306}
 --- !u!4 &757911329988135467 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2a04913431880484bb69110dda986134, type: 3}
